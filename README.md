@@ -34,7 +34,16 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"       
 />
- 
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+           
 <img 
     align="left" 
     alt="Git" 
