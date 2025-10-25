@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Maurino Martins
+# Maurino Martins
 
 **`Desenvolvedor de Software`**
 
@@ -24,6 +24,15 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"       
 />
  
 <img 
