@@ -53,6 +53,14 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -65,7 +73,7 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Maurineba&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[https://github-readme-stats.vercel.app/api?username=Maurineba&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg)" 
   />
 
 <img 
