@@ -37,8 +37,8 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -46,8 +46,8 @@ Me chamo Maurino Martins, tenho 19 anos e sou natural do Ceará. Atualmente, est
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Pytest" 
+    title="Pytest"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" 
